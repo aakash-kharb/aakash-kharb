@@ -62,7 +62,7 @@
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
-- 🎛️ Operating Systen:
+- 🎛️ Operating System:
 
     ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -95,9 +95,9 @@
 ## 🔥GitHub Streak:
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 20px; height: 100vh;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-test7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aakash Kharb's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-kharb&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Aakash Kharb's Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-test7&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Aakash Kharb's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-kharb&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="Aakash Kharb's GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </div> 
 
 <br>
@@ -119,5 +119,5 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-test7&label=Profile%20views&color=0e75b6&style=flat" alt="AakashKharb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-kharb&label=Profile%20views&color=0e75b6&style=flat" alt="AakashKharb" /> </p>
 
