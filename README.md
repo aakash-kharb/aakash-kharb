@@ -18,7 +18,7 @@
         <ul>
             <li>🔭 I’m currently studying <i>Artificial Intelligence</i> and <i>Machine Learning</i></li><br>
             <li>👯 I’m building <code>TechWill</code> : A ML-Emulator</li><br>
-            <li>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/aakash-test7">GitHub</a></strong></li><br>
+            <li>👨‍💻 You can access all of my open-source projects here on <strong><a href="https://github.com/aakash-kharb">GitHub</a></strong></li><br>
             <li>💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉</li><br>
             <li>☁️ Fun fact: "आकाश : Sky, in the cloud".</li><br>
             <li>😌 Fav Quote: "Think Well, Listen Quiet".</li>
